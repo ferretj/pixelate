@@ -4,9 +4,9 @@ pixelate turns your pictures into pixel art ! Well, sometimes.
 
 It is a simple script based on PIL.
 
-<img src="/examples/original/akira.jpg" alt="" style="width: 300px;"/> <img src="/examples/pixtured/akira.png" alt="" style="width: 300px;"/>  
+<img src="/examples/akira.jpg" alt="" style="width: 300px;"/> <img src="/examples/akira_pix.png" alt="" style="width: 300px;"/>  
 
-<img src="/examples/original/test.jpg" alt="" style="width: 300px;"/> <img src="/examples/pixtured/herochild.png" alt="" style="width: 300px;"/>  
+<img src="/examples/kid.jpg" alt="" style="width: 300px;"/> <img src="/examples/kid_pix.png" alt="" style="width: 300px;"/>  
 
 Algorithms will be added in the future. More precisely, I'd like to try to learn a mapping between input and pixelated space with a UNet-like encoder/decoder ConvNet.
 

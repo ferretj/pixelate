@@ -1,0 +1,4 @@
+examples/pixtured/
+*.pyc
+venv/
+.DS_Store
